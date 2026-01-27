@@ -1,0 +1,5 @@
+numpy==2.1.0
+matplotlib==3.9.1
+imageio==2.35.1
+pandas==2.2.2
+jupyter-offlinenotebook==0.3.1
